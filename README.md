@@ -26,7 +26,7 @@ Three params in the constructor is
 Demo
 =======
 
-1. create a layout resource like below
+create a layout resource like below
 
 ```xml
 <FrameLayout
@@ -59,7 +59,7 @@ Demo
 </FrameLayout>
 ```
 
-2. find the view in this resource
+find the view in this resource
 
 ```java
 View ivBg = findViewById(R.id.ivBg);
@@ -67,13 +67,13 @@ View ivPlay = findViewById(R.id.ivPlay);
 View ivPause = findViewById(R.id.ivPause);
 ```
 
-3. then you can just create a PlayerAnimHelper, be careful with the visibility of ivPlay and ivPause
+then you can just create a PlayerAnimHelper, be careful with the visibility of ivPlay and ivPause
 
 ```java
 PlayerAnimHelper animHelper = new PlayerAnimHelper(ivBg, ivPlay, ivPause);
 ```
 
-4. using stopPlayingAnim(), startPlayingAnim() for animations
+using stopPlayingAnim(), startPlayingAnim() for animations
 
 License
 =======
