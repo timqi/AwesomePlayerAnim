@@ -1,6 +1,10 @@
 AwesomePlayerAnim
 ===================
 
+![](raw/AwesomePlayerAnim.gif)
+
+the gif can't see the effct intuitive, you get the ![.mp4 video](raw/AwesomePlayerAnim.mp4) or ![.apk file](raw/AwesomePlayerAnim.apk) to demonstration.
+
 Usage
 =======
 
